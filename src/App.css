@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  background-image: url(../public/bg.jpg);
+  height: 100vh;
+  width: 100%;
+  color: #fff;
+  position: relative;
+}
+
+/* .star { */
+/* position: absolute; */
+/* width: 250px;  */
+/* height: 250px;  */
+/* } */
+
+/* .starImage1 {
+  scale: 0;
+} */
+
+/* #starImage1,
+#starImage2,
+#starImage3,
+#starImage4 {
+  scale: 0.4;
+} */
+
+/* #starImage2 {
+  scale: 0.4;
+} */
+
+.h1tag {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.dot {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  border-radius: 99px;
+  display: flex;
+}
+
+.parentContent {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.normaltext {
+  font-size: 24px;
+  width: 59%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.labelsClass {
+  font-weight: bold;
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+.imageHolder {
+  width: 100%;
+  border: 1px solid gray;
+  max-width: 40%;
+}
+
+.imageHolder img{
+  width: 100%;
+}

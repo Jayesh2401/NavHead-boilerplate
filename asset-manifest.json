@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NavHead-boilerplate/static/css/main.56d2d9ea.css",
+    "main.js": "/NavHead-boilerplate/static/js/main.dc8f1f85.js",
+    "static/js/787.2efd61bd.chunk.js": "/NavHead-boilerplate/static/js/787.2efd61bd.chunk.js",
+    "static/media/bg.jpg": "/NavHead-boilerplate/static/media/bg.4f727006ffcb1a16019a.jpg",
+    "index.html": "/NavHead-boilerplate/index.html",
+    "main.56d2d9ea.css.map": "/NavHead-boilerplate/static/css/main.56d2d9ea.css.map",
+    "main.dc8f1f85.js.map": "/NavHead-boilerplate/static/js/main.dc8f1f85.js.map",
+    "787.2efd61bd.chunk.js.map": "/NavHead-boilerplate/static/js/787.2efd61bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d2d9ea.css",
+    "static/js/main.dc8f1f85.js"
+  ]
+}
